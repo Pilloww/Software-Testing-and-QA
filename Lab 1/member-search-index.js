@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Q4","c":"Fibonacci","l":"fibonacci_iterative(int)"},{"p":"Q4","c":"Fibonacci","l":"Fibonacci()","url":"%3Cinit%3E()"}]

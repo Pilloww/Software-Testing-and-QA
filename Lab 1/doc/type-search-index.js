@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Q2","l":"ArrayMult"},{"p":"Q2","l":"ArrayMultTest"},{"p":"Q1","l":"ArrayShift"},{"p":"Q1","l":"ArrayShiftTest"},{"p":"Q3","l":"Calculation"},{"p":"Q3","l":"CalculationTest"},{"p":"Q4","l":"Fibonacci"},{"p":"Q4","l":"FibonacciTest"}]
